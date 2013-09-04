@@ -2,7 +2,7 @@
 /**
  * Codeigniter Bootstrap
  * -------------------------------------------------------------------
- * Developed and maintained by Stijn Geselle <stijn.geselle@gmail.com>
+ * 
  * -------------------------------------------------------------------
  */
 
